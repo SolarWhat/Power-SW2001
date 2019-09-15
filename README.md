@@ -18,7 +18,7 @@ More information about the project and the team behind it can be found on our [w
 
 User Manual:
 
-Gerber Files, BOM and related files: [here](https://github.com/SolarWhat/Light-SW2001/tree/master/PCB%20Files "here")
+Gerber Files, BOM and related files: [here](https://github.com/SolarWhat/Power-SW2001/tree/master/PCB%20Files "here")
 
 Firmware:
 
