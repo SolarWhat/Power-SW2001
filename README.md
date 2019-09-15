@@ -24,4 +24,4 @@ BoM:
 
 Firmware:
 
-CAD (stp):
+CAD Files (stp):
