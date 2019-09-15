@@ -15,6 +15,16 @@ The Solar What?! Power is one of two products we have designed to champion our r
 
 More information about the project and the team behind it can be found on our [website](http://www.solarwhat.xyz/index.php "website").
 
+User Manual:
+
+Gerber Files:
+
+BoM:
+
+Firmware:
+
+CAD (STL):
+
 * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
