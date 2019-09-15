@@ -12,7 +12,7 @@ We believe that delivering affordable, clean energy for all can also promote res
 
 Our goal is to advocate for sustainable design in the global solar industry and promote the repair, reuse and recycling of solar powered electronics. We are pro-solar, anti-waste.
 
-The Solar What?! Power is one of two products we have designed to champion our research and catalyse discussion around sustainability and repairability in the off-grid solar sector. The repository for other product, the Solar What Light, can be found [here](https://github.com/SolarWhat/Light-SW1001 "here").
+The Solar What?! Power is one of two products we have designed to champion our research and catalyse discussion around sustainability and repairability in the off-grid solar sector. The repository for our other product, the Solar What Light, can be found [here](https://github.com/SolarWhat/Light-SW1001 "here").
 
 More information about the project and the team behind it can be found on our [website](http://www.solarwhat.xyz/index.php "website").
 
