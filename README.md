@@ -24,4 +24,4 @@ BoM:
 
 Firmware:
 
-CAD (STL):
+CAD (stp):
