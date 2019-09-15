@@ -1,6 +1,6 @@
 # Power-SW2001
 
-![Solar What?! Power Hero Image](images/Solar%20What%20Power%20white%20background.jpg)
+![Solar What?! Power Hero Image](Images/Solar%20What%20Power%20white%20background.jpg)
 
 Solar What?! is the outcome of ongoing research at the University of Edinburgh.
 
