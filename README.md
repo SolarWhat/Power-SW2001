@@ -14,7 +14,12 @@ Our goal is to advocate for sustainable design in the global solar industry and 
 
 The Solar What?! Power is one of two products we have designed to champion our research and catalyse discussion around sustainability and repairability in the off-grid solar sector. The repository for our other product, the Solar What Light, can be found [here](https://github.com/SolarWhat/Light-SW1001 "here").
 
+We encourage you to download the files, reproduce the products, make edits, suggest improvements and, most importantly, share your ideas around design for sustainable international development.  
+
 More information about the project and the team behind it can be found on our [website](http://www.solarwhat.xyz/index.php "website").
+
+You can get in touch with the team by emailing info@solarwhat.xyz. 
+
 
 [User Manual](http://www.solarwhat.xyz/resources.php "User Manual")
 
