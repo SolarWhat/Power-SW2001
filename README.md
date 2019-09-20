@@ -16,9 +16,9 @@ The Solar What?! Power is one of two products we have designed to champion our r
 
 More information about the project and the team behind it can be found on our [website](http://www.solarwhat.xyz/index.php "website").
 
-User Manual: [here](http://www.solarwhat.xyz/resources.php "here")
+[User Manual](http://www.solarwhat.xyz/resources.php "User Manual")
 
-Gerber Files, BOM and Firmware files: [here](https://github.com/SolarWhat/Power-SW2001/tree/master/PCB%20Files "here")
+[Gerber Files, BOM and Firmware Files](https://github.com/SolarWhat/Power-SW2001/tree/master/PCB%20Files "Gerber Files, BOM and Firmware Files")
 
 
-CAD Files (stp): [here](https://github.com/SolarWhat/Power-SW2001/blob/master/Solar%20What%20Power%20Assembly.stp "here")
+[CAD Files (stp)](https://github.com/SolarWhat/Power-SW2001/blob/master/Solar%20What%20Power%20Assembly.stp "CAD Files (stp)")
